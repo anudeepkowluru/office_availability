@@ -31,11 +31,11 @@ class _HomePageState extends State<HomePage> {
         backgroundColor: Colors.white,
         // appBar
         appBar: new AppBar(
-          backgroundColor: Colors.white30,
+          backgroundColor: Colors.black38,
           title: new Text("OFFICE AVAILABILITY",
               style: new TextStyle(
                   fontFamily: 'Product Sans',
-                  color: Colors.black,
+                  color: Colors.white,
                   fontSize: 20.0,
                   fontWeight: FontWeight.w500)),
           centerTitle: true,
